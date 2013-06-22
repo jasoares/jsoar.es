@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[jasoar.es]]></title>
+  <link href="http://jsoar.es/atom.xml" rel="self"/>
+  <link href="http://jsoar.es/"/>
+  <updated>2013-06-23T01:10:19+01:00</updated>
+  <id>http://jsoar.es/</id>
+  <author>
+    <name><![CDATA[João Soares]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
